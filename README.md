@@ -32,8 +32,9 @@ First you need to install snare's Scruffy version 0.2.1
     # python setup.py install
 
 A standard python setup script is included. And will automatically install other dependencies.
-
-    # cd cloutron-install-folder/
+    
+    # git clone https://github.com/xntrik/cloutron.git
+    # cd cloutron/
     # python setup.py install
 
 This will install the `cloutron` egg wherever that happens on your system, and an executable named `cloutron` to `/usr/local/bin/`.
